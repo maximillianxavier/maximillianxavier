@@ -8,7 +8,7 @@
   
 **Personal Stuff:**
 
-- 🧑🏻‍💻 I’m Software Engineer - PostCompra
+- 🧑🏻‍💻 I’m Senior Software Engineer - PostCompra
 - 💬 Ask me about anything (not frontend), I am happy to help (if I can)
 - ⚡️ Fun-Fact: Gremista 🇪🇪
 
